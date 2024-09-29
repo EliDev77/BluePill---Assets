@@ -1,6 +1,3 @@
-
-Bluepill Valorant Spoofer Asset Dump README
-Overview:
 This repository contains an asset dump for the Bluepill Valorant Spoofer, featuring advanced techniques to bypass TPM, HVCI, and Secure Boot. These features allow users to spoof hardware information, bypassing Valorant's kernel-level anticheat systems.
 
 Key Features:
